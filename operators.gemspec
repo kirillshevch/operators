@@ -6,8 +6,8 @@ require 'operators/version'
 Gem::Specification.new do |spec|
   spec.name          = "operators"
   spec.version       = Operators::VERSION
-  spec.authors       = ["Kirill Shevchenko"]
-  spec.email         = ["hello@kirillshevch.com"]
+  spec.authors       = ["Kirill Shevchenko", "Yaroslav Bezrukavyi"]
+  spec.email         = ["hello@kirillshevch.com", "yaroslav.bezrukavyi@gmail.com"]
 
   spec.summary       = %q{operators}
   spec.description   = %q{operators}
